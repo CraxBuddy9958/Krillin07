@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Krillin07",
+    "startUrl": "https://craxpro.to/forums/proxies-http-https-socks4-socks5/post-thread",
+    "cookies": [
+      {
+        "domain": ".craxpro.to",
+        "expirationDate": 1804675081.323485,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "xf_user",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "838578%2CyvA81bLlYRCQjIc9eZnozOrNMw8hQrC-eAytYLx2"
+      },
+      {
+        "domain": ".craxpro.to",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "xf_csrf",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "BAeMn3zen46uokl8"
+      },
+      {
+        "domain": ".craxpro.to",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "xf_sam_ad_views",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "%7B%22164%22%3A1776344298%7D"
+      },
+      {
+        "domain": ".craxpro.to",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "xf_session",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "0iO3JqOsx0Ed0Cpe4eglX23vtJNl9X0X"
+      }
+    ]
+  }
+]
